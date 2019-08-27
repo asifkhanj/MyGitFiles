@@ -1,0 +1,6 @@
+git version     (To check the version)
+git branch      (Get branch)
+git config --name=asifkhanj   
+git config      (To check the account)
+git config --global --list
+
